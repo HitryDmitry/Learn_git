@@ -1,0 +1,3 @@
+Hello world
+This is the test file to learn git basics
+
