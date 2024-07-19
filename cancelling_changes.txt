@@ -1,0 +1,2 @@
+Some changes added and commited too early
+Now all the required changes added and file is ready to commit
